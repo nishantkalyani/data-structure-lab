@@ -1,3 +1,7 @@
+//A calculator needs to evaluate a postfix expression .Develop and execute a program in c using a suitable data structure 
+to evaluate a valid postfix expression.Assume that the postfix expression is read as a single line consisting  of 
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
