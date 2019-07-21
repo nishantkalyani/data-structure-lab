@@ -1,5 +1,8 @@
 //A calculator needs to evaluate a postfix expression .Develop and execute a program in c using a suitable data structure 
-to evaluate a valid postfix expression.Assume that the postfix expression is read as a single line consisting  of 
+to evaluate a valid postfix expression.Assume that the postfix expression is read as a single line consisting  of non-negative 
+single line consisting of non-negative single digit operands and binary arithmatic operators .The arithmetic operators are
++(add),-(minus),*(multiply) and /(divide).
+
 
 
 #include<stdio.h>
@@ -37,3 +40,10 @@ void main()
     }
     printf("%s = %d",exp,res[top]);
 }
+
+
+output:
+
+
+
+
