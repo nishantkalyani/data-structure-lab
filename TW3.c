@@ -1,3 +1,9 @@
+//Develop and execute a program in c using suitable data structure data structures to implement 
+baggage carousel at airport,where the carousel rotates circulary with maximum capacity of 10 bags .
+Each passenger should pick up his/her baggage with token provided.perform following operations.
+a.Addition of new bag at carousel.
+b.picking of bag from the carosel.
+c.show carosel status.    
 #include<stdio.h>
 void main()
 {
@@ -57,3 +63,6 @@ void main()
         }
     }
 }
+
+output:
+
