@@ -1,3 +1,9 @@
+//Develop and execute a program in c using suitable data structure to perform Searching a data item in an ordered
+list of items in both directions and implement the following operations:
+a.create a double linked list by adding each node at the start.
+b.insert a new node at the end of the list.
+c.display the content of a list.
+An integer number identifies a data item.    
 #include<stdio.h>
 #include<stdlib.h>
 struct node
@@ -90,3 +96,8 @@ void main()
         }
     }
 }
+
+output:
+
+
+
