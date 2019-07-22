@@ -1,8 +1,8 @@
-Execute the working of  queue in banks using token system .where each token is defined with
+//Execute the working of  queue in banks using token system .where each token is defined with
 tokenid,transaction no,transaction description,.provide the following operation for 
 a.insert
 b.delete
-c.display
+c.display//
 #include<stdio.h>
 void main()
 {
@@ -57,7 +57,7 @@ void main()
         }
     }
 }
-output:
+//output:
 Welcome to Bank queue system!
 Enter your choice:
 1. Insert.
@@ -76,4 +76,4 @@ Enter your choice:
 4. Exit.
 3
 The token id is 12, the transaction number is 4 and the transaction description
-is 4.
+is 4.//
