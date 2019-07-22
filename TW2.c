@@ -43,6 +43,12 @@ void main()
 
 
 output:
+Enter the postfix expression:
+33
+33 = 3
+Process returned 6 (0x6)   execution time : 3.916 s
+Press any key to continue.
+
 
 
 
