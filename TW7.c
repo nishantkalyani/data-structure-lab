@@ -17,6 +17,12 @@ int main()
 }
 
 output:
+Enter the value of x:
+25
+Result is: 78124751
+Process returned 0 (0x0)   execution time : 6.395 s
+Press any key to continue.
+
 
 
 
