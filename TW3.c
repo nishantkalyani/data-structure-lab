@@ -3,7 +3,7 @@ baggage carousel at airport,where the carousel rotates circulary with maximum ca
 Each passenger should pick up his/her baggage with token provided.perform following operations.
 a.Addition of new bag at carousel.
 b.picking of bag from the carosel.
-c.show carosel status.    
+c.show carosel status.//    
 #include<stdio.h>
 void main()
 {
@@ -64,7 +64,7 @@ void main()
     }
 }
 
-output:
+//output:
 Welcome to Baggage Carousel system!
 Enter your choice:
 1. Addition of new bag to carousel.
@@ -76,6 +76,6 @@ Space found!
 Enter token number:
 2
 Space found!
-Enter token number:
+Enter token number://
 
 
