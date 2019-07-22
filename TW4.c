@@ -52,3 +52,23 @@ void main()
         }
     }
 }
+output:
+Welcome to Bank queue system!
+Enter your choice:
+1. Insert.
+2. Delete.
+3. Display.
+4. Exit.
+1
+Enter token id, transaction number and transaction description(c or d):
+12
+4
+4
+Enter your choice:
+1. Insert.
+2. Delete.
+3. Display.
+4. Exit.
+3
+The token id is 12, the transaction number is 4 and the transaction description
+is 4.
