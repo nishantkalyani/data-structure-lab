@@ -1,3 +1,10 @@
+//Consider a super market senario where sales manager wants to search for the customer details
+using a customer-id .customer information like (custid,custname,&custphno) are stored as a 
+structure and custid will be used as hash key.develop and execute a program in c using 
+suitable data structure to implement the following operations:
+a.Insertion of a new data entry 
+b.search for customer information using custid
+c.display the records(demonstrate collision and its handling using linear probing method)
 #include <stdio.h>
 struct cust
  {
