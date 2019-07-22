@@ -98,6 +98,27 @@ void main()
 }
 
 output:
+Enter your choice:
+1. Add element at the start.
+2. Add element at the last.
+3. Display the list.
+4. Exit.
+1
+Enter data:
+25
+Enter your choice:
+1. Add element at the start.
+2. Add element at the last.
+3. Display the list.
+4. Exit.
+3
+25
+Enter your choice:
+1. Add element at the start.
+2. Add element at the last.
+3. Display the list.
+4. Exit.
+
 
 
 
