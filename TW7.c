@@ -1,6 +1,6 @@
 //consider a polynomial evalution in certain application.Devlope and execute a program in c
 using suitable data structure to implement polynomial evaluation for certain value of x,read
-from the user.
+from the user.//
 #include<stdio.h>
 #include<math.h>
 int main()
@@ -16,12 +16,12 @@ int main()
     return(0);
 }
 
-output:
+//output:
 Enter the value of x:
 2
 Result is: 237
 Process returned 0 (0x0)   execution time : 6.395 s
-Press any key to continue.
+Press any key to continue.//
 
 
 
