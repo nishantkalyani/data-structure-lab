@@ -65,4 +65,17 @@ void main()
 }
 
 output:
+Welcome to Baggage Carousel system!
+Enter your choice:
+1. Addition of new bag to carousel.
+2. Picking of bag from the carousel.
+3. Show carousel status.
+4. Exit.
+1
+Space found!
+Enter token number:
+2
+Space found!
+Enter token number:
+
 
