@@ -1,3 +1,8 @@
+Execute the working of  queue in banks using token system .where each token is defined with
+tokenid,transaction no,transaction description,.provide the following operation for 
+a.insert
+b.delete
+c.display
 #include<stdio.h>
 void main()
 {
