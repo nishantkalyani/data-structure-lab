@@ -1,6 +1,6 @@
 //create a binary tree for a expression .The tree traversals in some proper method should
 result in conversion of original expression into prefix,infix,and postfix forms.display
-the original expression along with the 3 different forms also.
+the original expression along with the 3 different forms also.//
 #include<stdio.h>
 #include<string.h>
 char exp[256];
@@ -90,7 +90,7 @@ void main()
     postorder(root);
 }
 
-output
+//output
 Enter the expression:
 2
 Original expression = 2
@@ -98,7 +98,7 @@ Inorder traversal is =  2
 Preorder traversal is =  2
 Postorder traversal is =  2
 Process returned 3 (0x3)   execution time : 6.505 s
-Press any key to continue.
+Press any key to continue.//
 
 
 
