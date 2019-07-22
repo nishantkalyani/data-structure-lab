@@ -1,4 +1,13 @@
-#include <stdio.h> #include <string.h> #include <stdlib.h>
+//Consider a calculator that needs to perform checking the coorectness of 
+parenthesized arithmatic expression and convert the same to postfix expression
+for evaluation .Develop and execute a program in c using suitable data 
+structure to perform the same and print both the expressions.The input 
+expressions consists of single character operands and the binary operators
++(plus),-(minus),*(multiply) and/(divide).//
+
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
 int main()
  {
      char infix[10];
@@ -49,3 +58,15 @@ int main()
      }
      return(0);
  }
+
+//output:
+
+ Enter parathesized expresssion:
+a+b
+
+ Original expresssion = a+b
+ Postfix expresssion =  a  b  +
+Process returned 0 (0x0)   execution time : 5.835 s
+Press any key to continue.//
+
+
