@@ -3,7 +3,7 @@ list of items in both directions and implement the following operations:
 a.create a double linked list by adding each node at the start.
 b.insert a new node at the end of the list.
 c.display the content of a list.
-An integer number identifies a data item.    
+An integer number identifies a data item. //   
 #include<stdio.h>
 #include<stdlib.h>
 struct node
@@ -97,7 +97,7 @@ void main()
     }
 }
 
-output:
+//output:
 Enter your choice:
 1. Add element at the start.
 2. Add element at the last.
@@ -117,7 +117,7 @@ Enter your choice:
 1. Add element at the start.
 2. Add element at the last.
 3. Display the list.
-4. Exit.
+4. Exit.//
 
 
 
