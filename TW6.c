@@ -30,4 +30,19 @@ int main()
 }
 
 output:
+Enter item to be searched:
+2
+Element not found
+
+Process returned 0 (0x0)   execution time : 3.510 s
+Press any key to continue.
+
+Enter item to be searched:
+3
+Element  found
+
+Process returned 0 (0x0)   execution time : 3.510 s
+Press any key to continue.
+    
+    
 
