@@ -90,7 +90,16 @@ void main()
     postorder(root);
 }
 
-output:
+output
+Enter the expression:
+2
+Original expression = 2
+Inorder traversal is =  2
+Preorder traversal is =  2
+Postorder traversal is =  2
+Process returned 3 (0x3)   execution time : 6.505 s
+Press any key to continue.
+
 
 
 
