@@ -1,6 +1,6 @@
 //Consider a warehouse where the items have to be arranged in an ascending order.Develop and
 execute a program in c using suitable data structure to implement warehouse such that items
-can be traced easily.
+can be traced easily.//
 #include<stdio.h>
 int main()
 {
@@ -29,7 +29,7 @@ int main()
     printf("Element not found\n");
 }
 
-output:
+//output:
 Enter item to be searched:
 2
 Element not found
@@ -42,7 +42,7 @@ Enter item to be searched:
 Element  found
 
 Process returned 0 (0x0)   execution time : 3.510 s
-Press any key to continue.
+Press any key to continue.//
     
     
 
