@@ -4,7 +4,7 @@ structure and custid will be used as hash key.develop and execute a program in c
 suitable data structure to implement the following operations:
 a.Insertion of a new data entry 
 b.search for customer information using custid
-c.display the records(demonstrate collision and its handling using linear probing method)
+c.display the records(demonstrate collision and its handling using linear probing method)//
 #include <stdio.h>
 struct cust
  {
@@ -78,7 +78,7 @@ int main()
      return(0);
  }
 
-output:
+//output:
 
  1: Insert, 2: Search: 3: Display = 1
 
@@ -99,4 +99,4 @@ output:
  empty
  empty
  empty
- 1: Insert, 2: Search: 3: Display =
+ 1: Insert, 2: Search: 3: Display =//
