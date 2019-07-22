@@ -1,3 +1,6 @@
+//consider a polynomial evalution in certain application.Devlope and execute a program in c
+using suitable data structure to implement polynomial evaluation for certain value of x,read
+from the user.
 #include<stdio.h>
 #include<math.h>
 int main()
@@ -12,3 +15,9 @@ int main()
     printf("Result is: %d",result);
     return(0);
 }
+
+output:
+
+
+
+
