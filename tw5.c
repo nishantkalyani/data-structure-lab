@@ -77,3 +77,26 @@ int main()
      }
      return(0);
  }
+
+output:
+
+ 1: Insert, 2: Search: 3: Display = 1
+
+ Enter Customer Id: 1
+
+ Enter Customer Name, Phone abc
+123
+
+ 1: Insert, 2: Search: 3: Display = 3
+
+ empty
+ 1 abc 123
+ empty
+ empty
+ empty
+ empty
+ empty
+ empty
+ empty
+ empty
+ 1: Insert, 2: Search: 3: Display =
